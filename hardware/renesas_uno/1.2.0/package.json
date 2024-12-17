@@ -1,17 +1,15 @@
 {
-  "name": "framework-arduinorenesas-uno-xiao",
-  "version": "1.2.0-1",
-  "description": "Fork of Seeed XIAORA4M1 Arduino board package v1.2.0",
+  "name": "framework-arduinorenesas-uno",
+  "version": "1.2.2",
+  "description": "Arduino Wiring-based Framework for Renesas MCUs (UNOR4 core)",
   "keywords": [
     "framework",
     "arduino",
-    "renesas-uno",
-    "xiao",
-	"XIAORA4M1"
+    "renesas",
+    "RA"
   ],
-  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arduino/ArduinoCore-renesas"
+    "url": "https://github.com/arduino/ArduinoCore-renesas.git"
   }
 }
